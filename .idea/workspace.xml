@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="833d67be-1092-494c-8274-fd4f064ddc6b" name="Changes" comment="Sales page" />
+    <list default="true" id="833d67be-1092-494c-8274-fd4f064ddc6b" name="Changes" comment="unversioned files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__test__/UserContext.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__test__/UserContext.test.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +70,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/raluc/AndroidStudioProjects/test_dashboard/finalassessment-RalPan-main"
+    "last_opened_file_path": "C:/Users/raluc/AndroidStudioProjects/dashboard"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -137,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695394473376</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="unversioned files">
+      <created>1695395035217</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695395035217</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +219,7 @@
     <MESSAGE value="Header added with ContextAPI" />
     <MESSAGE value="Home and review pages" />
     <MESSAGE value="Sales page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sales page" />
+    <MESSAGE value="unversioned files" />
+    <option name="LAST_COMMIT_MESSAGE" value="unversioned files" />
   </component>
 </project>
