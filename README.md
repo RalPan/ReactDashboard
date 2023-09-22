@@ -1,3 +1,3 @@
 # React Dashboard Application
 
-This application corresponds with a Code Along for the Introduction to React Course. Follow the Code-ALong in the Learning Management System.
+This application is the Final Assesment of a React course. It represents a single-page application dashboard for a retail store to manage and track their business.
